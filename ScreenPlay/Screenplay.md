@@ -1,4 +1,3 @@
-```markdown
 # FADE IN:
 
 ## SYNOPSIS
@@ -76,7 +75,7 @@ The police clean up the scene. The dead policeman’s body is removed as the pol
 ---
 
 # FADE OUT.
-```
+
 # CONTINUED:
 
 ### EXT. LARGE ENGLISH PROTESTANT CHURCH
