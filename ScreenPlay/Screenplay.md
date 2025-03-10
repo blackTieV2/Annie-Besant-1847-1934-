@@ -203,7 +203,7 @@ In a lush garden, 14-year-old Annie reads aloud from a newspaper.
 <center>**MISS MARRYAT**</center>  
 > "Yes, but remember—the Bible tells us that man was created in God’s image. Would you trust divine truth or mere theories?"
 
----
+--- 
 
 # FADE OUT.
 
